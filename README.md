@@ -1,5 +1,7 @@
 Author: Chris Saba
+
 Project: Game of Life
+
 Python version: 3.8.X
 *********************************
 Game Of Life Simulation readme.txt
