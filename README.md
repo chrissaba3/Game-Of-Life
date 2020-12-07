@@ -10,11 +10,11 @@ utilizing 3 rules.
 2. A live cell with two or three live neighbors stays alive.
 3. A live cell with less than 2 or greater than 3 live neighbors dies
 Example board 5x5
- - x - - -
+'- x - - -
  x x x x -
  - - - x -
  x - x - x
- - - - x -
+ - - - x -'
 **********************************
 How to install and run using requirements.txt in Windows
 
