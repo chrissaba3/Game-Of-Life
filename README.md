@@ -9,12 +9,9 @@ utilizing 3 rules.
 1. A dead cell with three live neighbors becomes a live cell otherwise it remains dead.
 2. A live cell with two or three live neighbors stays alive.
 3. A live cell with less than 2 or greater than 3 live neighbors dies
-Example board 5x5
-- x - - -
-x x x x -
-- - - x -
-x - x - x
-- - - x -
+Example board 5x5:
+
+![alt text](https://i.imgur.com/PZbg3XI.png)
 **********************************
 How to install and run using requirements.txt in Windows
 
