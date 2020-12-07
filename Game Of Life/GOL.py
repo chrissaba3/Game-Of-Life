@@ -1,7 +1,5 @@
 #Project:   Game Of Life Simulation
 #Author:    Chris Saba
-#Class:     CS2520 Python for Programmers
-#Professor: Dominick Atanasio
 #Date:      12/06/2020
 import os
 from collections import namedtuple, defaultdict
